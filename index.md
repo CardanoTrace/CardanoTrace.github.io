@@ -1,3 +1,3 @@
 Hello World
 
-Gitbook link: https://docs.rabbitholepools.io
+Gitbook link: [here](https://docs.rabbitholepools.io)
